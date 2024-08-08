@@ -10,7 +10,7 @@ const Home = () => {
       <div className="options-container">
         <button className="option-button"><Link to="/auth/admin-login">Continue as Admin</Link></button>
         <button className="option-button"><Link to="/auth/vendor-login">Continue as Vendor</Link></button>
-        <button className="option-button"><Link to="/auth/user-login">Continue as User</Link></button>
+        
       </div>
     </div>
   );
